@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "986300931942",
+    "firebase_url": "https://video-management-8a973-default-rtdb.firebaseio.com",
+    "project_id": "video-management-8a973",
+    "storage_bucket": "video-management-8a973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986300931942:android:daa0712ebc1fa8fa2d72a7",
+        "android_client_info": {
+          "package_name": "com.example.video_management_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGh9qGNH6r5TsxPZ1-HCIDhY3l4gUUnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
